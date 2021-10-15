@@ -1,0 +1,30 @@
+body{
+    background-color: #A2D2FF;
+    margin:50px;
+
+}
+h2{
+    text-shadow:2px 2px 5px red;
+    font-size: 40px;
+    font-family:Verdana;
+    text-transform: uppercase;
+    text-align: center;
+}
+.content{
+    border:3px solid black;
+    border-radius:12px;
+    padding: 3px;
+    background-color:#D7A9E3FF;
+    font-size: 30px;
+    font-style: italic;
+}
+.list{
+    color: springgreen;
+    font-size: 25px;
+}
+footer{
+    font-size: 10px;
+    color: darkblue;
+    font-family: fantasy;
+    margin-bottom: 0px;
+}
